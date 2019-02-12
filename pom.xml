@@ -12,6 +12,9 @@
         <module>dataStructure</module>
         <module>algorithmDesign</module>
         <module>designPattern</module>
+        <module>Test</module>
+        <module>Test</module>
+        <module>Test</module>
     </modules>
 
 
