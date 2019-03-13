@@ -13,9 +13,14 @@
         <module>algorithmDesign</module>
         <module>designPattern</module>
         <module>Test</module>
-        <module>Test</module>
-        <module>Test</module>
-    </modules>
 
+    </modules>
+    <dependencies>
+        <dependency>
+            <groupId>com.github.sazzad16</groupId>
+            <artifactId>jedis</artifactId>
+            <version>2.9.2</version>
+        </dependency>
+    </dependencies>
 
 </project>
