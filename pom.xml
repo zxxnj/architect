@@ -13,6 +13,7 @@
         <module>algorithmDesign</module>
         <module>designPattern</module>
         <module>Test</module>
+        <module>util</module>
 
     </modules>
     <dependencies>
